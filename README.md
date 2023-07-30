@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/m-tyd/m-tyd/main/profile-summary-card-output/blue_green/0-profile-details.svg)![](https://raw.githubusercontent.com/m-tyd/m-tyd/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/m-tyd/m-tyd/main/profile-summary-card-output/nightowl/0-profile-details.svg)
